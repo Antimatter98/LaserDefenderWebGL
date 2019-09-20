@@ -7,3 +7,6 @@ For shooting: Use SpaceBar or the Left Mouse Button.
 
 # Try the Game: 
 https://antimatter98.github.io/LaserDefenderWebGL/
+
+# Game Demo: 
+![Laser Defender Demo](LaserDefender.gif)
